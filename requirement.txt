@@ -1,0 +1,6 @@
+pandas
+numpy
+plotly
+sqlalchemy
+pymysql
+mysql-connector-python
