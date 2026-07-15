@@ -139,5 +139,5 @@ This project is licensed under the MIT License.
 
 Vishal Rathod Aspiring Data Scientist | Machine Learning Enthusiast | Data Analyst
 
-Connect With Me LinkedIn Profile[https://www.linkedin.com/in/vishal-rathod-0a2435386/]
+Connect With Me Linkedin Profile[https://www.linkedin.com/in/vishal-rathod-0a2435386/]
 
